@@ -2,6 +2,14 @@
 
 This document provides a basic overview of Dynatrace, a powerful software intelligence platform for monitoring and optimizing application performance, infrastructure, and user experience.
 
+[Visit Dynatrace Dashboard I have created for demo](https://gue98946.apps.dynatrace.com/ui/document/v0/#share=335974e9-f073-4fa8-b121-f3fccaf3f939)
+
+Below is a screenshot of the dashboard I created in Dynatrace, showing metrics like CPU Idle Time and CPU Usage % .
+
+
+![Dynatrace Dashboard](./images/275FFCD0-39B6-4EB1-8BC3-8F1672B7ADEF.jpeg)
+
+
 ## 🚀 What is Dynatrace?
 
 Dynatrace is an all-in-one monitoring solution that uses AI and automation to provide observability across:
@@ -10,6 +18,7 @@ Dynatrace is an all-in-one monitoring solution that uses AI and automation to pr
 - Networks
 - User experience
 - Logs and events
+
 
 ## 🧩 Key Components
 
