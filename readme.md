@@ -20,6 +20,8 @@ Dynatrace is an all-in-one monitoring solution that uses AI and automation to pr
 - Logs and events
 
 
+
+
 ## 🧩 Key Components
 
 ### 1. **OneAgent**
@@ -44,3 +46,10 @@ Dynatrace is an all-in-one monitoring solution that uses AI and automation to pr
 ```bash
 wget -O Dynatrace-OneAgent.sh "<download-link>"
 sudo /bin/sh Dynatrace-OneAgent.sh
+```
+
+## 👉 *[Click here to know more about end-to-end integration with Dynatrace](./EC2%20+%20Dynatrace%20OneAgent%20Monitoring%20Setup.md)*
+
+
+
+
