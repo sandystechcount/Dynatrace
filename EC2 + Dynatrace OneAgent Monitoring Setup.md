@@ -2,11 +2,14 @@
 
 This guide walks you through creating an EC2 instance, installing Dynatrace OneAgent, monitoring host metrics, and setting up dashboards and alerts.
 
+Screenshot one of the dashboard I have created with metrics: CPU Idle Time and CPU usage %.
+![Dynatrace Dashboard](/Users/sandeepkavya/275FFCD0-39B6-4EB1-8BC3-8F1672B7ADEF.jpeg)
+
 ---
 
 ## 📦 Prerequisites
 
-- AWS Account (free-tier eligible)
+- AWS Account
 - Dynatrace SaaS Account
 - `.pem` key pair for EC2 SSH access
 - Basic familiarity with Terminal
